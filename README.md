@@ -33,6 +33,8 @@ Install plugins using the `install` command followed by the path to the reposito
 fisher install ilancosman/tide
 ```
 
+> To install a plugin from GitLab, prefix the repository with `gitlab.com/`.
+
 To get a specific version of a plugin add an `@` symbol after the plugin name followed by a tag, branch, or [commit](https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefcommit-ishacommit-ishalsocommittish).
 
 ```console
